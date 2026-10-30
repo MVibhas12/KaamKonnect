@@ -2,7 +2,7 @@
 
 **The bridge to homes.** KaamKonnect is a cooperative-owned home-services marketplace for India. Customers book verified local workers, and workers earn fair wages. Workers also get access to welfare schemes and skill training.
 
-**Live site:** https://MVibhas12.github.io/kaamkonnect/.
+**Live site:** [https://mvibhas12.github.io/KaamKonnect/#/].
 
 ---
 
